@@ -17,8 +17,8 @@ https://drive.google.com/drive/folders/1aJgxd9LTptPBdvFrdvLv-aqMwHD0f1US?usp=sha
 ![Lacak Kiriman](https://user-images.githubusercontent.com/44845450/106412596-b0cdd800-647a-11eb-85c9-5cc9263423b7.png)
   
  # Versi 0.6 <h1>Home JNE Express
-###### Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Hanya saja perbedaan tampilan FE menggunakan web dan mobile tetapi untuk semua komponen serta fitur yang ada tidak ada perubahan. Pembuatan Aplikasi menggunakan vscode lalu proses running dilakukan pada browser.
-Berikut saya sertakan tautan folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan.  Dikarenakan sebelumnya sudah login menggunakan akun mobile maka pada tampilan web ini saya langsung mencoba memasukkan nomor resi. 
+###### Bahwa front end yg dibangun mengikuti/sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah dibuat sebelum UAS. Hanya saja perbedaan tampilan FE menggunakan web dan mobile tetapi untuk semua komponen serta fitur yang ada tidak ada perubahan. Pembuatan Aplikasi menggunakan vscode lalu proses running dilakukan pada browser. Dikarenakan sebelumnya sudah login menggunakan akun mobile maka pada tampilan web ini saya langsung mencoba memasukkan nomor resi.
+Berikut saya sertakan tautan folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan.  
 https://drive.google.com/drive/folders/1aJgxd9LTptPBdvFrdvLv-aqMwHD0f1US?usp=sharing <h6>
 ###### Berikut tampilan versi-0.6 Home 
  Pada tampilan ini user dapat memasukkan cek resi untuk melakukan proses tracking paket/barang sesuai nomor resi<h6>
